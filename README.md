@@ -65,7 +65,7 @@ This is a simple and beginner-friendly **3-page website** built using **HTML and
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/palak/bootstrap-project.git
    ```
 
 2. Open the project folder
